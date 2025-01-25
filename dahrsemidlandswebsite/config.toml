@@ -1,0 +1,76 @@
+baseURL = 'https://dahrse-midlands.github.io/'
+languageCode = 'en-us'
+title = 'DAHRSE-Midlands'
+theme = 'mainroad'
+#contentDir = "content"
+#publishDir = "docs"
+#paginate = "2" # Number of posts per page
+ 
+#[markup.goldmark.renderer]
+unsafe= true
+
+[Params]
+  opengraph = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["posts"]
+
+
+[Params.logo]
+  # image = "images/TODO.png"
+  title = "DAHRSE-Midlands"
+  subtitle = "A community of Digital Arts and Humanities Research Software Engineers (DAHRSEs) within the Midlands of England."
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "right" # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  #widgets = ["search","social", "recent", "categories", "taglist"]
+  widgets = ["social", "recent", "taglist"]
+
+[Params.widgets]
+  recent_num = 3 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  mastodon = "DAHRSE_Midlands"
+  bluesky = "dahrse-midlands.bsky.social"
+  github = "DAHRSE-Midlands"
+  twitter = "DAHRSE_Midlands"
+
+[Params.style.vars]
+  highlightColor = "#e22d30" # Override highlight color
+
+  # Override font-family sets
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  # Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    identifier = "category"
+    name = "Events"
+    url = "/events/"
+    weight = 2
+  [[menu.main]]
+    identifier = "category1"
+    name = "7th April 2025"
+    url = "/events/event-7th-april-2025/"
+    parent = "category"
+    weight = 2
+  [[menu.main]]
+    identifier = "Communitynetwork"
+    name = "Community Network"
+    url = "/communitynetwork/dahrse-midlands-community-showcase/"
+    weight = 3
+
+[Params.thumbnail]
+  visibility = ["list", "post"] # Control thumbnail visibility
