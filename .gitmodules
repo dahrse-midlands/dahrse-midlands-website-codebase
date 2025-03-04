@@ -2,3 +2,6 @@
 	path = dahrsemidlandswebsite/public
 	url = https://github.com/dahrse-midlands/dahrse-midlands.github.io.git
 	branch = main
+[submodule "themes/mainroad"]
+  path = themes/mainroad
+  url = https://github.com/spatialscientist/Mainroad.git
