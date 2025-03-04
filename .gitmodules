@@ -3,5 +3,5 @@
 	url = https://github.com/dahrse-midlands/dahrse-midlands.github.io.git
 	branch = main
 [submodule "dahrsemidlandswebsite/themes/mainroad"]
-  path = themes/mainroad
+  path = dahrsemidlandswebsite/themes/mainroad
   url = https://github.com/spatialscientist/Mainroad.git
