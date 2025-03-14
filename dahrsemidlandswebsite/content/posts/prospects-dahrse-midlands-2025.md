@@ -3,7 +3,7 @@ title: "The Prospects of Digital Arts and Humanities Research Software Engineers
 date: 2025-03-04
 ---
 
-In recent years, the integration of digital technologies into the arts and humanities has opened new avenues for research and innovation. One of the key drivers of this transformation is the emergence of Digital Arts and Humanities Research Software Engineers (DAHRSEs). These professionals possess a unique blend of technical expertise and a deep understanding of the arts and humanities, making them invaluable assets in the research landscape.
+In recent years, the integration of digital technologies into the arts and humanities has opened new avenues for research and innovation. One of the key drivers of this transformation is the emergence of Digital Arts and Humanities Research Software Engineers (DAHRSEs). These professionals possess a unique blend of technical expertise and a deep understanding of the arts and humanities, making them invaluable assets in the research landscape. 
 
 ## The Role of DAHRSE in the Midlands
 
