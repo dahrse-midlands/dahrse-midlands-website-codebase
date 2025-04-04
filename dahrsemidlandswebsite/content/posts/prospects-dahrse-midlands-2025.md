@@ -1,6 +1,7 @@
 ---
 title: "The Prospects of Digital Arts and Humanities Research Software Engineers in the Midlands for AHRC Doctoral Landscape Awards"
 date: 2025-03-04
+authors: "Dr Godwin Yeboah"
 ---
 
 In recent years, the integration of digital technologies into the arts and humanities has opened new avenues for research and innovation. One of the key drivers of this transformation is the emergence of Digital Arts and Humanities Research Software Engineers (DAHRSEs). These professionals possess a unique blend of technical expertise and a deep understanding of the arts and humanities, making them invaluable assets in the research landscape. 
@@ -11,7 +12,7 @@ The Midlands region of England, known for its rich cultural heritage and vibrant
 
 ## Enhancing Doctoral Research
 
-The recent announcement by the Arts and Humanities Research Council (AHRC) that seven higher education institutions (HEIs) in the Midlands will receive Doctoral Landscape Awards is a significant milestone [1]. These awards recognize excellence in arts and humanities research and pave the way for future advancements in these fields. The universities receiving these awards are:
+The recent announcement by the Arts and Humanities Research Council (AHRC) that seven higher education institutions (HEIs) in the Midlands will receive Doctoral Landscape Awards is a significant milestone [1]. These awards recognize excellence in arts and humanities research and pave the way for future advancements in these fields. The universities receiving these awards are: 
 
 1. The University of Warwick
 2. University of Leicester
