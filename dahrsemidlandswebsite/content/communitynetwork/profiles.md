@@ -16,7 +16,10 @@ summary = 'Welcome to the DAHRSE-Midlands Community Showcase! Here, we highlight
 #hidden = false # Hide the content from the list pages
 +++
 
-Welcome to the DAHRSE-Midlands Community Showcase! Here, we highlight the profiles and contributions of Digital Arts and Humanities Research Software Engineers across the Midlands.
+Welcome to the DAHRSE-Midlands Community Showcase!
+Meet the people behind Digital Arts and Humanities research across the Midlands. Each profile gives you a quick snapshot of who they are, what they do, and how to connect.
+Explore roles, affiliations, expertise, and interests—all in one place. Every profile is shared with consent, and while some members may be offline, their work continues to make an impact.
+Ready to discover the community? Start exploring below!
 
 ---
 
