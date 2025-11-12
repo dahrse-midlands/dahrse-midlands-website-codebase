@@ -115,6 +115,6 @@ Want to help shape the future of DAHRSE Midlands?
 - **Join the conversation:** Use our [Slack channel](https://ukrse.slack.com/archives/C088WTMB1PZ), [mailing list](https://www.jiscmail.ac.uk/DAHRSE-MIDLANDS), or social media channels ([Bluesky](https://bsky.app/profile/dahrse-midlands.bsky.social), [Mastodon](https://www.mastodon.social/@DAHRSE_Midlands),[X - formerly Twitter](https://twitter.com/DAHRSE_Midlands).
 - [**Sign up for updates:**](https://www.jiscmail.ac.uk/DAHRSE-MIDLAND)
 - [**Showcase your profile on our website:**](https://dahrse-midlands.github.io/communitynetwork/dahrse-midlands-community-showcase/)
-- [**Propose a lightning talk or resource:**] We welcome ideas—from accessibility toolkits to case studies of DH software in practice.
+- **Propose a lightning talk or resource:** We welcome ideas—from accessibility toolkits to case studies of DH software in practice.
 
 Together, we’re building a connected, sustainable community for Digital Arts & Humanities RSEs in the Midlands—one small, purposeful step at a time.
